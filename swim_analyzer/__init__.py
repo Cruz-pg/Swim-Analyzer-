@@ -1,0 +1,2 @@
+"""Swim analysis application package."""
+
