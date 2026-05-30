@@ -1,6 +1,6 @@
 # Swim Form Analyzer
 
-A consolidated Streamlit app for analyzing swim technique from photos or short videos. The app combines OpenAI vision analysis, category-specific coaching prompts, optional MediaPipe pose hints, follow-up chat, and downloadable Markdown reports.
+A consolidated Streamlit app for analyzing swim technique from photos or short videos. The app combines OpenAI vision analysis, category-specific coaching prompts, optional MediaPipe pose hints, follow-up chat, and downloadable Markdown reports. 
 
 ## Features
 
@@ -11,6 +11,7 @@ A consolidated Streamlit app for analyzing swim technique from photos or short v
 - Save swimmer context during a session so follow-up coaching gets more specific.
 - Ask follow-up questions after the initial analysis.
 - Download a Markdown report with the analysis, pose hints, swimmer profile, and chat transcript.
+- Suggested songs to play before a swimming race which will boost mood.
 
 ## Project Structure
 
