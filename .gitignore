@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+node_modules/
+dist/
+*.tsbuildinfo
+.pytest_cache/
+test-results/
+.playwright/
+swim_analysis_report.md
