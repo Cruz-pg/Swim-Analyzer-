@@ -10,3 +10,4 @@ dist/
 test-results/
 .playwright/
 swim_analysis_report.md
+test
