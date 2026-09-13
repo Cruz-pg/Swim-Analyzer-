@@ -1,7 +1,0 @@
-.env
-.venv/
-__pycache__/
-*.py[cod]
-.DS_Store
-.streamlit/secrets.toml
-swim_analysis_report.md
